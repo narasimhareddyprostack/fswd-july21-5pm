@@ -8,6 +8,9 @@ let employee = {
 /* console.log(employee); */
 //print all employee object values
 //console.log(employee.name);
-for(prop in employee){
-console.log(employee[prop])
+for (prop in employee) {
+  console.log(employee[prop]);
 }
+
+let x = [];
+x.shift();
