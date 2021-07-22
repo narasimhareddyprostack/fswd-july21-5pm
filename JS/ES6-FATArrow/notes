@@ -1,0 +1,10 @@
+Fat Arrow Function Adv 
+New ES6 - function syntax - to make develper easy 
+ 
+1.Concise code/shorter Code 
+2.implicit return 
+  function has only one state ie return , use implicit return 
+
+3.this keyword - minimal obj/empty object 
+4.function override conflict will resolve - using fat arrow
+  function hoisting
