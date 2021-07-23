@@ -1,0 +1,12 @@
+what is constructor?
+----constructor is special method
+----It will execute automatically, once object creation .
+----it will execute only once, @ time of object creation.
+----To initilize the values
+----we will not invoke constructor method explicitly
+
+what is class?
+-- template/draft/design/blueprint to construct object.
+
+what is class constructor?
+--- constructor is special method.
